@@ -94,7 +94,7 @@ footer {
 .producto img {
     max-width: 100%;
     height: auto;
-    width: 100px; /* Cambia este valor al ancho deseado en píxeles */
+    width: 100px;
     margin-bottom: 10px;
     border-radius: 4px;
 }
